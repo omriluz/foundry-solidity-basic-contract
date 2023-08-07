@@ -1,3 +1,7 @@
+# My first solidity/foundry smart contract!
+
+This is only an example project and should be treated as such but this is my first real world interaction with the world of smart contracts. Im leaving the docs below for foundry for anyone who is interested
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
